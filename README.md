@@ -2,4 +2,4 @@
 
 ## Contributors
 
-- Batool Almarzouq
+- Batool **Almarzouq**
